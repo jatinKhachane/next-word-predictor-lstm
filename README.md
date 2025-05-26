@@ -13,3 +13,5 @@ This project implements a next word prediction model using a simple LSTM archite
 ## 📊 Training Graphs and Results
 
 
+![inference](https://github.com/user-attachments/assets/a1a4fe1c-a585-4c68-a695-02bba7741203)![lossVsEpochs](https://github.com/user-attachments/assets/fb5571c2-8c1b-4192-ab5d-974c9807d30e)
+
